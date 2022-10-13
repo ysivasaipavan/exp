@@ -7,6 +7,8 @@ public class TryCatch {
                 System.out.print(c);
             } catch (Exception e) {
                 System.out.print("IT was a Math error");
+                System.out.print("IT was working");
+                
 
             }
 
