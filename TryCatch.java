@@ -6,7 +6,7 @@ public class TryCatch {
                 c = a / b;
                 System.out.print(c);
             } catch (Exception e) {
-                System.out.print("IT was a fuoftyodtyofhjhvhgdy error");
+                System.out.print("IT was a fuoftyodtyofhjhvjjkbhgdy error");
                 
 
             }
